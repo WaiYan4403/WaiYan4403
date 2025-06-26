@@ -1,24 +1,24 @@
 # Hi there 👋 I'm Wai Yan Phyoe
 
-Welcome to my GitHub profile! I'm a passionate developer based in Myanmar with experience in full-stack development, game development, and UI/UX design. I enjoy building meaningful digital solutions—from web applications to games—that make life easier, more fun, or more accessible.
+I'm a passionate developer based in Myanmar with experience in full-stack development, game development, and UI/UX design. I enjoy building meaningful digital solutions—from web applications to games—that make life easier, more fun, or more accessible.
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
 - **Languages**: JavaScript, PHP, C#, Python, SQL
-- **Web**: ASP.NET Core MVC, Laravel, Node.js, HTML/CSS, Tailwind CSS, jQuery
-- **Game Dev**: Unity (2D & WebGL), C#
-- **Design**: Figma, Adobe XD, Photoshop, Clip Studio Paint
-- **Database**: MySQL, MSSQL
-- **Other Tools**: Git, GitHub, XAMPP, Postman, Docker (basic)
+- **Web**: ASP.NET Core MVC, Node.js, HTML/CSS, React
+- **Game Dev**: Unity (2D & WebGL), C#, Godot, Unreal
+- **Design**: Figma, Illustrator, Photoshop,
+- **Database**: MySQL, MSSQL, MongoDB
+- **Other Tools**: Git, GitHub, XAMPP, Postman
 
 ---
 
 ## 🚀 What I’m Working On
 
-- 🎮 A local-themed poker game with Unity WebGL
-- 📊 A student registration and reporting system using ASP.NET Core MVC
+- 🎮 Small indie games
+- 📊 An AI powered resume builder
 - 🌐 A Myanmar-focused creator support platform (like Ko-fi) with local payments
 - 🧩 Game asset packs for itch.io
 
@@ -33,10 +33,10 @@ Welcome to my GitHub profile! I'm a passionate developer based in Myanmar with e
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌍 [Portfolio](https://yourportfolio.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- ✉️ Email: yourname@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/wai-yan-phyoe-b97a1b250/))
+- 🌍 [Portfolio](https://yahallo.site)
+- 🐦 [Twitter]([https://twitter.com/yourhandle](https://www.linkedin.com/in/wai-yan-phyoe-b97a1b250/))
+- ✉️ Email: waiyan4403@gmail.com
 
 ---
 
