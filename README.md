@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Wai Yan Phyoe
 
-I'm a passionate developer based in Myanmar with experience in full-stack development, game development, and UI/UX design. I enjoy building meaningful digital solutions—from web applications to games—that make life easier, more fun, or more accessible.
+I'm a passionate developer based in Myanmar with experience in full-stack development, game development, and UI/UX design. I enjoy building meaningful digital solutions, from web applications to games that make life easier, more fun, or more accessible.
 
 ---
 
