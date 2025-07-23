@@ -6,7 +6,7 @@ I'm a passionate developer based in Myanmar with experience in full-stack develo
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: JavaScript, PHP, C#, Python, SQL
+- **Languages**: JavaScript, PHP, C#, Java, Python, SQL
 - **Web**: ASP.NET Core MVC, Node.js, HTML/CSS, React
 - **Game Dev**: Unity (2D & WebGL), C#, Godot, Unreal
 - **Design**: Figma, Illustrator, Photoshop,
